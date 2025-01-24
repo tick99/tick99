@@ -11,7 +11,7 @@
 
 ### TODO
 - 🚩 我们将不断完善用户管理面板
-- 🚩 我们将推出官方客户端
+- 🚩 我们将推出官方自研客户端
 - 🚩 我们将继续增加常用国家/地区的线路和节点
 <!---
 tick99/tick99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
