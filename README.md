@@ -9,6 +9,9 @@
 - ✨ Ticklite、Tickmedium、Tickpremium 等3个层级的周期套餐订阅
 - ✨ 50-500GB 不同流量额度、永久有效的流量套餐订阅
 
+###TODO
+- 我们将不断完善用户管理面板
+- 我们将推出官方客户端
 <!---
 tick99/tick99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
